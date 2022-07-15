@@ -5,9 +5,9 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=24&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react" />
 </div>
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react](https://activity-graph.herokuapp.com/graph?username=flookkyz&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=flookkyz&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true" />
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center"> 
