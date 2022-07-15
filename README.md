@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=15&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=20&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **flookkyz/flookkyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
