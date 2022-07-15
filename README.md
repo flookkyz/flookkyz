@@ -1,8 +1,8 @@
 <h3 align="left">:pray: Hey, I'm Flook. </h3>
 
 <div>
-<p>
-I'm from Thailand, I'm Working about Web Development position Frontend Developer
+<p align="center">
+I'm from Thailand. I'm Working about Web Development position Frontend Developer.
 </p></div>
 <h1></h1>
 <div align="center">
