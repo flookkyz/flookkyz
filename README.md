@@ -1,4 +1,4 @@
-### Hey 👋, I'm Flook.
+### Hey, I'm Flook.
 
 
 
