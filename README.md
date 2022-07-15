@@ -1,6 +1,17 @@
 ### Hey, I'm Flook.
-
-
+<hr/>
+```yaml
+name: Erwin Lejeune
+located_in: Odense, Denmark
+from: Nantes (France)
+job: Navigation and Control Engineer
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Coalescent Mobile Robotics
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["microROS"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=24&theme=react" />
