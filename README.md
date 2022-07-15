@@ -40,4 +40,5 @@
 <p align="center">
 <a href="https://fb.com/flookkyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chakkarin eammi" height="30" width="40" /></a>
 <a href="https://instagram.com/flxxk.chr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flxxk.chr" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/ecWmX7NGsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ecWmX7NGsc" height="30" width="40" /></a>
 </p>
