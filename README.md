@@ -3,8 +3,8 @@
 
 
 <div align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=24&theme=react" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react"
+<img width="45%" height="50" src="https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=24&theme=react" />
+<img width="45%" height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react"
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
