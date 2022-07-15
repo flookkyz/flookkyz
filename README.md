@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=24&theme=react" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react" />
 </div>
-
+<h1></h1>
 <h3 align="left">Languages and Tools : </h3>
 
 <p align="center"> 
@@ -37,7 +37,7 @@
 <!-- photoshop -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
-
+<h1></h1>
 <h3 align="left">Connect with me : </h3>
 <p align="center">
 <!-- Facebook -->
