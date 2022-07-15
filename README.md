@@ -1,5 +1,10 @@
 <h3 align="left">:pray: Hey, I'm Flook. </h3>
 
+<div>
+<p>
+I'm from Thailand, I'm Working about Web Development position Frontend Developer
+</p></div>
+<h1></h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=24&theme=react" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flookkyz&layout=compact&theme=react" />
