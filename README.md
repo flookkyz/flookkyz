@@ -1,4 +1,4 @@
-### Hey, I'm Flook.
+### Hey, I'm Flook. ⚡⚡⚡
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=flookkyz&hide=issues&show_icons=true&line_height=24&theme=react" />
